@@ -1,4 +1,4 @@
-# DCF_for_isolation_systems
+# DCF for isolation systems
 This repository contains data and core Python codes for the paper entitled "Damping correction factor for an equivalent linear force procedure to predict the peak displacement of isolation systems" (DOI: https://xxxx)
 
 The repository has two folders. Their contents are explained below.
